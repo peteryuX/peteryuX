@@ -2,7 +2,7 @@
 
 I'm a software engineer for mahcine learning and passionate about building machine learning models in production!
 
-I'm currently looking for ML engineer / Data Scientist Job!
+I'm currently open to new opportunities (ML engineer / Data Scientist)!
 
 Previously, I worked in Garena as a data scientist (recmendation system of streaming platform) and HTC VIVE as a ML scientist (visual tracking of VR device)!
 Reach my [:globe_with_meridians: Personal Website](https://peteryux.github.io/) to get more details about me!
