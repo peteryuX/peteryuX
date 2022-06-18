@@ -1,6 +1,6 @@
 ### Hi~ I'm Peter! 👋
 
-I'm a software engineer for mahcine learning and passionate about building machine learning models in production!
+I'm a software engineer for machine learning and passionate about building machine learning models in production!
 
 I'm currently open to new opportunities (ML engineer / Data Scientist)!
 
