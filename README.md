@@ -1,10 +1,9 @@
 ### Hi~ I'm Peter! 👋
 
-I'm a software engineer for machine learning and passionate about building machine learning models in production!
+I am a software engineer specializing in machine learning, with a strong passion for developing machine learning models for production. Currently, I have several years of experience working with the HTC VIVE team, where I have primarily focused on developing computer vision applications for AR / XR / VR devices using machine learning and deep learning techniques for visual detection and tracking.
 
-I'm currently open to new opportunities (ML engineer / Data Scientist)!
+In my previous role, I served as a data scientist at Garena (Sea Group) for over a year. My primary focus there was on building a recommendation system for the BOOYAH! LIVE platform. Subsequently, I joined Dcard as an ML Engineer, where my main responsibility was to develop a post recommendation system that aimed to improve the user experience on the platform.
 
-Previously, I worked in Garena as a data scientist (recommendation system of streaming platform) and HTC VIVE as a ML scientist (visual tracking of VR device)!
 Reach my [:globe_with_meridians: Personal Website](https://peteryux.github.io/) to get more details about me!
 
 <!-- - mail: peter124574@gmail.com -->
