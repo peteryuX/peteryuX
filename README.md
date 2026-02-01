@@ -13,8 +13,6 @@ Reach my [:globe_with_meridians: Personal Website](https://peteryux.github.io/) 
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/peteryuX)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=peteryuX&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **peteryuX/peteryuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
